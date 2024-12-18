@@ -53,21 +53,6 @@ The project involves creating a real-time sensor monitoring system using simulat
    - Configure thresholds to highlight anomalies.
 3. Save the dashboard and verify real-time updates.
 
----
-
-### **4. Screenshots**
-
-#### **A. Python Results**
-- **Data Generation:**
-  ![Python Data Generation](#)
-- **Cleaned Data:**
-  ![Cleaned CSV Data](#)
-
-#### **B. PI Vision Dashboards**
-- **Real-Time Trends:**
-  ![Real-Time Dashboard](#)
-- **Threshold Alerts:**
-  ![Alerts and Notifications](#)
 
 ### **5. Real-World Applications**
 
